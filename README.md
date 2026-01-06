@@ -2,27 +2,27 @@
 
 ## 📌 Présentation du projet
 
-Ce projet est une **application web de gestion de tickets (Helpdesk)** réalisée dans le cadre d’un **projet académique**.  
-Elle permet de gérer les incidents et demandes utilisateurs avec un **workflow clair**, une **assignation aux techniciens**, et un **suivi complet du cycle de vie des tickets**.
+Ce projet consiste à développer une application web de gestion des tickets d’incidents (HelpDesk .NET) permettant aux employés de déclarer des problèmes techniques, aux techniciens de les traiter, et à l’administrateur de superviser l’ensemble du processus.
 
-L’application est développée selon une **architecture N-Tiers**, avec un **backend ASP.NET Core Web API** et un **frontend React.js**.
+L’objectif est de centraliser le suivi des incidents, d’assurer la traçabilité des interventions et d’améliorer la qualité du support technique. L’application est basée sur l’architecture N-tiers en ASP.NET Core avec une base de données SQL Server, et inclura un système d’authentification par rôles (Administrateur, Technicien, Employé).
 
 ---
 
 ## 🎯 Objectifs du projet
 
-- Centraliser les demandes d’assistance informatique
-- Permettre la création et le suivi des tickets
-- Gérer les statuts et priorités des tickets
-- Assigner les tickets à des techniciens
-- Offrir un dashboard dédié aux techniciens
-- Appliquer un workflow métier réaliste
+- Concevoir une base de données relationnelle sous SQL Server pour la gestion des utilisateurs, des tickets et des interventions.
+-Développer une interface web dynamique avec ASP.NET Core MVC, HTML, CSS et
+JavaScript.
+- Mettre en place un système d’authentification (Administrateur, Technicien, Employé).
+- Gérer le cycle de vie d’un ticket : création, assignation, clôture.
+- Intégrer des tests unitaires et fonctionnels (Squash TM) pour valider le bon fonctionnement de l’application.
+- Utiliser AzureDevops comme outil de gestion de projet pour le suivi et la traçabilité
 
 ---
 
 ## 🧱 Architecture du projet
 
-Le projet suit une **architecture N-Tiers** :
+Le projet suit une **architecture N-tiers** :
 
 Frontend (React)
 |
