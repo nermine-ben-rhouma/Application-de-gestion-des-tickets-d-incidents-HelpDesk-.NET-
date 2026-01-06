@@ -1,0 +1,12 @@
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\bin\Debug\net7.0\Projet.Enums.deps.json
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\bin\Debug\net7.0\Projet.Enums.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\bin\Debug\net7.0\Projet.Enums.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.csproj.AssemblyReference.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.AssemblyInfoInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.AssemblyInfo.cs
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.csproj.CoreCompileInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\refint\Projet.Enums.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\Projet.Enums.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Enums\obj\Debug\net7.0\ref\Projet.Enums.dll

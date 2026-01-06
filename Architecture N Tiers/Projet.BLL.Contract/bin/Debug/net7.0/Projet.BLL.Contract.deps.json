@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projet.BLL.Contract/1.0.0": {
+        "runtime": {
+          "Projet.BLL.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet.BLL.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

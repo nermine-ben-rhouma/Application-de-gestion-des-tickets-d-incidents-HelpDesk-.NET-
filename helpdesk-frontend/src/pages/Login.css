@@ -1,0 +1,133 @@
+/* Login.css */
+.login-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.login-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  padding: 40px 30px;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.logo {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  color: #333;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 30px;
+}
+
+.connexion-title {
+  font-size: 22px;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #555;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.input-wrapper input {
+  width: 100%;
+  padding: 14px 14px 14px 40px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  background: #fff;
+  font-size: 15px;
+}
+
+.input-wrapper .icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #aaa;
+}
+
+.input-wrapper .eye-icon {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #aaa;
+  cursor: pointer;
+}
+
+button {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(to right, #4e73df, #5a67d8);
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  margin-top: 10px;
+  box-shadow: 0 4px 10px rgba(78, 115, 223, 0.3);
+}
+
+button:hover {
+  background: linear-gradient(to right, #4262c8, #4c58c0);
+}
+
+.demo-section {
+  margin-top: 30px;
+  text-align: left;
+  font-size: 13px;
+  color: #666;
+}
+
+.demo-title {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.demo-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.demo-section li {
+  margin-bottom: 8px;
+}
+
+.demo-section strong {
+  color: #444;
+}

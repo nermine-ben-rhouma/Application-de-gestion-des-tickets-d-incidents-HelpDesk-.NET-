@@ -1,0 +1,12 @@
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\bin\Debug\net7.0\Projet.DAL.Contracts.deps.json
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\bin\Debug\net7.0\Projet.DAL.Contracts.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\bin\Debug\net7.0\Projet.DAL.Contracts.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.csproj.AssemblyReference.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.AssemblyInfoInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.AssemblyInfo.cs
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.csproj.CoreCompileInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\refint\Projet.DAL.Contracts.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\Projet.DAL.Contracts.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.DAL.Contracts\obj\Debug\net7.0\ref\Projet.DAL.Contracts.dll

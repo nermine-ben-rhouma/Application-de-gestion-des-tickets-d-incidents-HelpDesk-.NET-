@@ -1,0 +1,12 @@
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\bin\Debug\net7.0\Projet.Logs.deps.json
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\bin\Debug\net7.0\Projet.Logs.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\bin\Debug\net7.0\Projet.Logs.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.csproj.AssemblyReference.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.AssemblyInfoInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.AssemblyInfo.cs
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.csproj.CoreCompileInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\refint\Projet.Logs.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\Projet.Logs.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Logs\obj\Debug\net7.0\ref\Projet.Logs.dll

@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 220px;
+  background: #f5f7fb;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-bottom: 30px;
+}
+
+.sidebar nav a {
+  display: block;
+  margin-bottom: 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+.main-content {
+  flex: 1;
+  background: #f9fafc;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+.page-content {
+  padding: 30px;
+}
+
+.logout-btn {
+  background: red;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}

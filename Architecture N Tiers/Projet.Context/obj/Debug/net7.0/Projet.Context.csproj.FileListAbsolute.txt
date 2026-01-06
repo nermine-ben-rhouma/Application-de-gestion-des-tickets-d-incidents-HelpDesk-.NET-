@@ -1,0 +1,17 @@
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\bin\Debug\net7.0\Projet.Context.deps.json
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\bin\Debug\net7.0\Projet.Context.runtimeconfig.json
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\bin\Debug\net7.0\Projet.Context.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\bin\Debug\net7.0\Projet.Context.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\bin\Debug\net7.0\Projet.Entities.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\bin\Debug\net7.0\Projet.Entities.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.csproj.AssemblyReference.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.AssemblyInfoInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.AssemblyInfo.cs
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.csproj.CoreCompileInputs.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.csproj.CopyComplete
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\refint\Projet.Context.dll
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.pdb
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\Projet.Context.genruntimeconfig.cache
+D:\GitProject\ProjetDOTNEtBack26112024\Projet.Context\obj\Debug\net7.0\ref\Projet.Context.dll
