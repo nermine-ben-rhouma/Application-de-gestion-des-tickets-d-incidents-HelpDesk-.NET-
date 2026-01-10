@@ -33,6 +33,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet.ViewModel", "Projet.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{3AADF299-A36D-459A-86F3-00ADC08C8BC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet.Tests", "Projet.Tests\Projet.Tests.csproj", "{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3AADF299-A36D-459A-86F3-00ADC08C8BC7} = {3AADF299-A36D-459A-86F3-00ADC08C8BC7}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +88,10 @@ Global
 		{3AADF299-A36D-459A-86F3-00ADC08C8BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AADF299-A36D-459A-86F3-00ADC08C8BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AADF299-A36D-459A-86F3-00ADC08C8BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

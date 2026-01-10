@@ -1,0 +1,11 @@
+{
+  "API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API",
+  "Projet.BLL.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL.Contract",
+  "Projet.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL",
+  "Projet.Context, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Context",
+  "Projet.DAL.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL.Contracts",
+  "Projet.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL",
+  "Projet.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities",
+  "Projet.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services",
+  "Projet.ViewModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.ViewModel"
+}

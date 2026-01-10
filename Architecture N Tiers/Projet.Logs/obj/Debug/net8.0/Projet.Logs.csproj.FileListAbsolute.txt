@@ -20,3 +20,15 @@ C:\Users\MSI GF63\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.
 C:\Users\MSI GF63\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\refint\Projet.Logs.dll
 C:\Users\MSI GF63\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.pdb
 C:\Users\MSI GF63\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\ref\Projet.Logs.dll
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\bin\Debug\net8.0\Projet.Logs.deps.json
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\bin\Debug\net8.0\Projet.Logs.dll
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\bin\Debug\net8.0\Projet.Logs.pdb
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.AssemblyInfoInputs.cache
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.AssemblyInfo.cs
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.sourcelink.json
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.dll
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\refint\Projet.Logs.dll
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\Projet.Logs.pdb
+C:\Users\MSI GF63\projetHelpDesk\Architecture N Tiers\Projet.Logs\obj\Debug\net8.0\ref\Projet.Logs.dll

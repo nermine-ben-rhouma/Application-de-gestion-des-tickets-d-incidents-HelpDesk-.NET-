@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Projet.Entities
@@ -21,11 +22,12 @@ namespace Projet.Entities
         [ForeignKey("CreateurId")]
         public User Createur { get; set; }
 
-        public int? TechnicienId { get; set; }  // ← nullable
+        public int? TechnicienId { get; set; }
         [ForeignKey("TechnicienId")]
         public User Technicien { get; set; }
 
-        public string FichierUrl { get; set; }
+        public string? FichierUrl { get; set; } // ← nullable
+
         public ICollection<Commentaire> Commentaires { get; set; } = new List<Commentaire>();
     }
 }

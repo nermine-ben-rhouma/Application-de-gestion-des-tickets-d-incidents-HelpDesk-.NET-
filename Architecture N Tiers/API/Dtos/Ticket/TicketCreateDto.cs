@@ -9,8 +9,7 @@ namespace API.Dtos.Ticket
         public int StatutId { get; set; }
         public int PrioriteId { get; set; }
         public int CreateurId { get; set; }
-        public int? TechnicienId { get; set; }  // nullable
-
-        public IFormFile Fichier { get; set; }  // Le fichier à uploader
+        public int? TechnicienId { get; set; }
+        public IFormFile Fichier { get; set; }
     }
 }

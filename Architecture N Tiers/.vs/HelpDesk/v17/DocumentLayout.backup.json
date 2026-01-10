@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.tests\\dashboardcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|solutionrelative:projet.tests\\dashboardcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.tests\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|solutionrelative:projet.tests\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\ticket\\ticketreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\ticket\\ticketreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\ticket\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\ticket\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.tests\\fakewebhostenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|solutionrelative:projet.tests\\fakewebhostenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.tests\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676D7A23-0D8D-48C4-AE42-AE64CCBF03DD}|Projet.Tests\\Projet.Tests.csproj|solutionrelative:projet.tests\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|solutionrelative:projet.context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\commentaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\commentaire\\commentairedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\commentaire\\commentairedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,20 +79,8 @@
       "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\commentaire\\commentairecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\changestatutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\changestatutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\ticket\\ticketreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\ticket\\ticketreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\ticket\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\dtos\\ticket\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.entities\\statut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\projet.context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|solutionrelative:projet.context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\msi gf63\\projethelpdesk\\architecture n tiers\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -224,35 +240,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "DashboardControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\DashboardControllerTests.cs",
+              "RelativeDocumentMoniker": "Projet.Tests\\DashboardControllerTests.cs",
+              "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\DashboardControllerTests.cs",
+              "RelativeToolTip": "Projet.Tests\\DashboardControllerTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:39:16.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\TicketsControllerTests.cs",
+              "RelativeDocumentMoniker": "Projet.Tests\\TicketsControllerTests.cs",
+              "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\TicketsControllerTests.cs",
+              "RelativeToolTip": "Projet.Tests\\TicketsControllerTests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA7wFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:04:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeWebHostEnvironment.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\FakeWebHostEnvironment.cs",
+              "RelativeDocumentMoniker": "Projet.Tests\\FakeWebHostEnvironment.cs",
+              "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\FakeWebHostEnvironment.cs",
+              "RelativeToolTip": "Projet.Tests\\FakeWebHostEnvironment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:03:36.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Projet.Tests\\TestDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Tests\\TestDbContextFactory.cs",
+              "RelativeToolTip": "Projet.Tests\\TestDbContextFactory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:50:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "API\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwvzQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswFAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T17:33:19.333Z"
+              "WhenOpened": "2026-01-03T17:33:19.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "20260101214412_AddFichierUrlToTicket.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Migrations\\20260101214412_AddFichierUrlToTicket.cs",
               "RelativeDocumentMoniker": "API\\Migrations\\20260101214412_AddFichierUrlToTicket.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Migrations\\20260101214412_AddFichierUrlToTicket.cs",
               "RelativeToolTip": "API\\Migrations\\20260101214412_AddFichierUrlToTicket.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T21:44:12.308Z"
+              "WhenOpened": "2026-01-01T21:44:12.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "UserUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\User\\UserUpdateDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\User\\UserUpdateDto.cs",
@@ -260,11 +330,12 @@
               "RelativeToolTip": "API\\Dtos\\User\\UserUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T20:35:12.114Z"
+              "WhenOpened": "2026-01-01T20:35:12.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\LoginDto.cs",
@@ -272,11 +343,12 @@
               "RelativeToolTip": "API\\Dtos\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T19:51:27.428Z"
+              "WhenOpened": "2026-01-01T19:51:27.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
@@ -284,11 +356,12 @@
               "RelativeToolTip": "API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T19:46:52.512Z"
+              "WhenOpened": "2026-01-01T19:46:52.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services\\JwtService.cs",
               "RelativeDocumentMoniker": "Projet.Services\\JwtService.cs",
@@ -296,11 +369,12 @@
               "RelativeToolTip": "Projet.Services\\JwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T19:44:24.991Z"
+              "WhenOpened": "2026-01-01T19:44:24.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ChangeStatutDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\ChangeStatutDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\ChangeStatutDto.cs",
@@ -308,23 +382,25 @@
               "RelativeToolTip": "API\\Dtos\\ChangeStatutDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T18:22:44.782Z"
+              "WhenOpened": "2026-01-01T18:22:44.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "TicketReadDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\Ticket\\TicketReadDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Ticket\\TicketReadDto.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\Ticket\\TicketReadDto.cs",
               "RelativeToolTip": "API\\Dtos\\Ticket\\TicketReadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:57:03.761Z"
+              "WhenOpened": "2026-01-01T12:57:03.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Projet.Services\\Interfaces\\IUserService.cs",
@@ -332,11 +408,12 @@
               "RelativeToolTip": "Projet.Services\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:25:28.146Z"
+              "WhenOpened": "2026-01-01T12:25:28.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "CommentairesController.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\CommentairesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CommentairesController.cs",
@@ -344,11 +421,12 @@
               "RelativeToolTip": "API\\Controllers\\CommentairesController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAADwv0EAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:00:21.462Z"
+              "WhenOpened": "2026-01-01T12:00:21.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "CommentaireDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\Commentaire\\CommentaireDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Commentaire\\CommentaireDto.cs",
@@ -356,11 +434,12 @@
               "RelativeToolTip": "API\\Dtos\\Commentaire\\CommentaireDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T11:58:59.534Z"
+              "WhenOpened": "2026-01-01T11:58:59.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "CommentaireCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\Commentaire\\CommentaireCreateDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Commentaire\\CommentaireCreateDto.cs",
@@ -368,23 +447,25 @@
               "RelativeToolTip": "API\\Dtos\\Commentaire\\CommentaireCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T11:58:11.182Z"
+              "WhenOpened": "2026-01-01T11:58:11.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "20260101112952_v1.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Migrations\\20260101112952_v1.cs",
               "RelativeDocumentMoniker": "API\\Migrations\\20260101112952_v1.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Migrations\\20260101112952_v1.cs",
               "RelativeToolTip": "API\\Migrations\\20260101112952_v1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T11:29:52.097Z"
+              "WhenOpened": "2026-01-01T11:29:52.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "20260101112928_v2.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\Architecture N Tiers\\API\\Migrations\\20260101112928_v2.cs",
               "RelativeDocumentMoniker": "..\\..\\Architecture N Tiers\\API\\Migrations\\20260101112928_v2.cs",
@@ -395,32 +476,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "TicketsController.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\TicketsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\TicketsController.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\TicketsController.cs",
               "RelativeToolTip": "API\\Controllers\\TicketsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAtwF0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T10:27:02.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "TicketCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\Ticket\\TicketCreateDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Ticket\\TicketCreateDto.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\Ticket\\TicketCreateDto.cs",
               "RelativeToolTip": "API\\Dtos\\Ticket\\TicketCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:25:40.275Z"
+              "WhenOpened": "2026-01-01T10:25:40.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "UserReadDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\User\\UserReadDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\User\\UserReadDto.cs",
@@ -428,11 +510,12 @@
               "RelativeToolTip": "API\\Dtos\\User\\UserReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:12:27.22Z"
+              "WhenOpened": "2026-01-01T10:12:27.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "UserCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Dtos\\User\\UserCreateDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\User\\UserCreateDto.cs",
@@ -440,11 +523,12 @@
               "RelativeToolTip": "API\\Dtos\\User\\UserCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:11:41.037Z"
+              "WhenOpened": "2026-01-01T10:11:41.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "API.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
@@ -452,11 +536,12 @@
               "RelativeToolTip": "API\\API.csproj",
               "ViewState": "AgIAAA8AAAAAAAAAAAApwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-01T10:09:20.086Z"
+              "WhenOpened": "2026-01-01T10:09:20.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
@@ -464,11 +549,12 @@
               "RelativeToolTip": "API\\Controllers\\UserController.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAswGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:09:36.162Z"
+              "WhenOpened": "2026-01-01T10:09:36.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "20251231212226_v1.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\Downloads\\Architecture N Tiers\\API\\Migrations\\20251231212226_v1.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\Architecture N Tiers\\API\\Migrations\\20251231212226_v1.cs",
@@ -479,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -487,11 +573,12 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAwwEoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T21:20:13.346Z"
+              "WhenOpened": "2025-12-31T21:20:13.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Projet.DAL\\UnitOfWork.cs",
@@ -499,11 +586,12 @@
               "RelativeToolTip": "Projet.DAL\\UnitOfWork.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAEwAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T21:18:54.981Z"
+              "WhenOpened": "2025-12-31T21:18:54.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Projet.BLL.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL\\Projet.BLL.csproj",
               "RelativeDocumentMoniker": "Projet.BLL\\Projet.BLL.csproj",
@@ -511,11 +599,12 @@
               "RelativeToolTip": "Projet.BLL\\Projet.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T21:17:17.383Z"
+              "WhenOpened": "2025-12-31T21:17:17.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL.Contracts\\IRepository.cs",
               "RelativeDocumentMoniker": "Projet.DAL.Contracts\\IRepository.cs",
@@ -523,11 +612,12 @@
               "RelativeToolTip": "Projet.DAL.Contracts\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T21:07:12.607Z"
+              "WhenOpened": "2025-12-31T21:07:12.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -535,11 +625,12 @@
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-31T21:00:51.463Z"
+              "WhenOpened": "2025-12-31T21:00:51.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services\\UserService.cs",
               "RelativeDocumentMoniker": "Projet.Services\\UserService.cs",
@@ -547,23 +638,25 @@
               "RelativeToolTip": "Projet.Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:55:16.068Z"
+              "WhenOpened": "2025-12-31T20:55:16.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 7,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Context\\DataContext.cs",
               "RelativeDocumentMoniker": "Projet.Context\\DataContext.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Context\\DataContext.cs",
               "RelativeToolTip": "Projet.Context\\DataContext.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:50:07.484Z"
+              "WhenOpened": "2025-12-31T20:50:07.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Statut.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Statut.cs",
               "RelativeDocumentMoniker": "Projet.Entities\\Statut.cs",
@@ -571,11 +664,12 @@
               "RelativeToolTip": "Projet.Entities\\Statut.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:48:35.586Z"
+              "WhenOpened": "2025-12-31T20:48:35.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Priorite.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Priorite.cs",
               "RelativeDocumentMoniker": "Projet.Entities\\Priorite.cs",
@@ -583,11 +677,12 @@
               "RelativeToolTip": "Projet.Entities\\Priorite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:48:00.858Z"
+              "WhenOpened": "2025-12-31T20:48:00.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "Projet.Entities.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Projet.Entities.csproj",
               "RelativeDocumentMoniker": "Projet.Entities\\Projet.Entities.csproj",
@@ -595,11 +690,12 @@
               "RelativeToolTip": "Projet.Entities\\Projet.Entities.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T20:34:22.667Z"
+              "WhenOpened": "2025-12-31T20:34:22.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Commentaire.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Commentaire.cs",
               "RelativeDocumentMoniker": "Projet.Entities\\Commentaire.cs",
@@ -607,23 +703,25 @@
               "RelativeToolTip": "Projet.Entities\\Commentaire.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:31:17.877Z"
+              "WhenOpened": "2025-12-31T20:31:17.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Ticket.cs",
               "RelativeDocumentMoniker": "Projet.Entities\\Ticket.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Ticket.cs",
               "RelativeToolTip": "Projet.Entities\\Ticket.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:27:50.015Z"
+              "WhenOpened": "2025-12-31T20:27:50.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Role.cs",
               "RelativeDocumentMoniker": "Projet.Entities\\Role.cs",
@@ -631,11 +729,12 @@
               "RelativeToolTip": "Projet.Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T20:25:22.888Z"
+              "WhenOpened": "2025-12-31T20:25:22.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Projet.ViewModel.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.ViewModel\\Projet.ViewModel.csproj",
               "RelativeDocumentMoniker": "Projet.ViewModel\\Projet.ViewModel.csproj",
@@ -643,34 +742,37 @@
               "RelativeToolTip": "Projet.ViewModel\\Projet.ViewModel.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T15:05:08.929Z"
+              "WhenOpened": "2025-12-31T15:05:08.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\User.cs",
               "RelativeDocumentMoniker": "Projet.Entities\\User.cs",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\User.cs",
               "RelativeToolTip": "Projet.Entities\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:53:08.658Z"
+              "WhenOpened": "2025-12-31T14:53:08.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "Projet.BLL",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL\\Projet.BLL.csproj",
               "RelativeDocumentMoniker": "Projet.BLL\\Projet.BLL.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL\\Projet.BLL.csproj",
               "RelativeToolTip": "Projet.BLL\\Projet.BLL.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:50:18.071Z"
+              "WhenOpened": "2025-12-31T14:50:18.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Projet.BLL.Contract.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
               "RelativeDocumentMoniker": "Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
@@ -678,33 +780,36 @@
               "RelativeToolTip": "Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:50:05.918Z"
+              "WhenOpened": "2025-12-31T14:50:05.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "Projet.BLL.Contract",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
               "RelativeDocumentMoniker": "Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
               "RelativeToolTip": "Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:50:10.428Z"
+              "WhenOpened": "2025-12-31T14:50:10.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "Projet.Entities",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Projet.Entities.csproj",
               "RelativeDocumentMoniker": "Projet.Entities\\Projet.Entities.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Entities\\Projet.Entities.csproj",
               "RelativeToolTip": "Projet.Entities\\Projet.Entities.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:50:00.188Z"
+              "WhenOpened": "2025-12-31T14:50:00.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "Projet.Enums.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Enums\\Projet.Enums.csproj",
               "RelativeDocumentMoniker": "Projet.Enums\\Projet.Enums.csproj",
@@ -712,22 +817,24 @@
               "RelativeToolTip": "Projet.Enums\\Projet.Enums.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:49:52.15Z"
+              "WhenOpened": "2025-12-31T14:49:52.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "Projet.Enums",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Enums\\Projet.Enums.csproj",
               "RelativeDocumentMoniker": "Projet.Enums\\Projet.Enums.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Enums\\Projet.Enums.csproj",
               "RelativeToolTip": "Projet.Enums\\Projet.Enums.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:49:53.898Z"
+              "WhenOpened": "2025-12-31T14:49:53.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Projet.Logs.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Logs\\Projet.Logs.csproj",
               "RelativeDocumentMoniker": "Projet.Logs\\Projet.Logs.csproj",
@@ -735,22 +842,24 @@
               "RelativeToolTip": "Projet.Logs\\Projet.Logs.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:49:43.191Z"
+              "WhenOpened": "2025-12-31T14:49:43.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "Projet.Logs",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Logs\\Projet.Logs.csproj",
               "RelativeDocumentMoniker": "Projet.Logs\\Projet.Logs.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Logs\\Projet.Logs.csproj",
               "RelativeToolTip": "Projet.Logs\\Projet.Logs.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:49:44.918Z"
+              "WhenOpened": "2025-12-31T14:49:44.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Projet.DAL.Contracts.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
               "RelativeDocumentMoniker": "Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
@@ -758,33 +867,36 @@
               "RelativeToolTip": "Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:49:03.687Z"
+              "WhenOpened": "2025-12-31T14:49:03.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "Projet.DAL.Contracts",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
               "RelativeDocumentMoniker": "Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
               "RelativeToolTip": "Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:49:05.368Z"
+              "WhenOpened": "2025-12-31T14:49:05.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "Projet.ViewModel",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.ViewModel\\Projet.ViewModel.csproj",
               "RelativeDocumentMoniker": "Projet.ViewModel\\Projet.ViewModel.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.ViewModel\\Projet.ViewModel.csproj",
               "RelativeToolTip": "Projet.ViewModel\\Projet.ViewModel.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:57.763Z"
+              "WhenOpened": "2025-12-31T14:48:57.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Projet.Services.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services\\Projet.Services.csproj",
               "RelativeDocumentMoniker": "Projet.Services\\Projet.Services.csproj",
@@ -792,22 +904,24 @@
               "RelativeToolTip": "Projet.Services\\Projet.Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:48.737Z"
+              "WhenOpened": "2025-12-31T14:48:48.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "Projet.Services",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services\\Projet.Services.csproj",
               "RelativeDocumentMoniker": "Projet.Services\\Projet.Services.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Services\\Projet.Services.csproj",
               "RelativeToolTip": "Projet.Services\\Projet.Services.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:50.58Z"
+              "WhenOpened": "2025-12-31T14:48:50.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Projet.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL\\Projet.DAL.csproj",
               "RelativeDocumentMoniker": "Projet.DAL\\Projet.DAL.csproj",
@@ -815,22 +929,24 @@
               "RelativeToolTip": "Projet.DAL\\Projet.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:40.813Z"
+              "WhenOpened": "2025-12-31T14:48:40.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "Projet.DAL",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL\\Projet.DAL.csproj",
               "RelativeDocumentMoniker": "Projet.DAL\\Projet.DAL.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.DAL\\Projet.DAL.csproj",
               "RelativeToolTip": "Projet.DAL\\Projet.DAL.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:43.249Z"
+              "WhenOpened": "2025-12-31T14:48:43.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Projet.Context.csproj",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Context\\Projet.Context.csproj",
               "RelativeDocumentMoniker": "Projet.Context\\Projet.Context.csproj",
@@ -838,29 +954,32 @@
               "RelativeToolTip": "Projet.Context\\Projet.Context.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:32.299Z"
+              "WhenOpened": "2025-12-31T14:48:32.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "Projet.Context",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Context\\Projet.Context.csproj",
               "RelativeDocumentMoniker": "Projet.Context\\Projet.Context.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\Projet.Context\\Projet.Context.csproj",
               "RelativeToolTip": "Projet.Context\\Projet.Context.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:35.495Z"
+              "WhenOpened": "2025-12-31T14:48:35.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "API",
               "DocumentMoniker": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
               "ToolTip": "C:\\Users\\MSI GF63\\projetHelpDesk\\Architecture N Tiers\\API\\API.csproj",
               "RelativeToolTip": "API\\API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-31T14:48:01.59Z"
+              "WhenOpened": "2025-12-31T14:48:01.59Z",
+              "EditorCaption": ""
             }
           ]
         }
