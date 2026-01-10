@@ -58,5 +58,37 @@ Base de données (SQL Server via Entity Framework Core)
 - React Hooks
 - Dashboard dynamique
 
+#🧪 Tests et validation
+
+Le projet intègre des tests unitaires pour garantir le bon fonctionnement des controllers et de la logique métier. Les tests utilisent xUnit et une base de données InMemory pour simuler les opérations sans toucher à la base réelle.
+
+Controllers testés
+
+TicketsController
+
+Création d’un ticket (CreateTicket)
+
+Changement de statut (ChangeStatut)
+
+Gestion des statuts invalides
+
+Vérification du stockage de fichiers uploadés
+
+DashboardController
+
+Vérification des statistiques globales (GetStats) :
+
+Nombre total de tickets
+
+Taux de résolution
+
+Tickets en attente
+
+Temps moyen de résolution
+
+Techniciens actifs
+
+Vérification des tickets quotidiens (GetDailyTickets) pour les 7 derniers jours
+
 ---
 
