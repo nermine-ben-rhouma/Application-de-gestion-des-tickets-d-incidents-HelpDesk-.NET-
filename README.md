@@ -58,7 +58,7 @@ Base de données (SQL Server via Entity Framework Core)
 - React Hooks
 - Dashboard dynamique
 
-#🧪 Tests et validation
+🧪 Tests et validation
 
 Le projet intègre des tests unitaires pour garantir le bon fonctionnement des controllers et de la logique métier. Les tests utilisent xUnit et une base de données InMemory pour simuler les opérations sans toucher à la base réelle.
 
